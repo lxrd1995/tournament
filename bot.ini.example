@@ -1,0 +1,7 @@
+[tg_bot]
+token=
+admin_id=
+use_redis=False
+
+[db]
+path=tournament-db.db
